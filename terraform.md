@@ -10,7 +10,6 @@
 ```
 
 ![Screenshot (150)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/c28868ae-97b2-40f6-98d7-2fe4ded23d2c)
-![Screenshot (154)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/dd604e40-30af-4025-b299-ee5c67a7a153)
-![Screenshot (151)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/8333d194-2246-461e-8de0-67cac3cd8789)
-![Screenshot (155)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/6bdb77c9-5211-4ac2-8251-2e1a664322c9)
-![Screenshot (153)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/95996416-17f6-44b6-a731-39e6bbbd5035)
+![Screenshot (154)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/971b06fd-75e0-4625-a4b8-204b0ed34bd0)
+![Screenshot (151)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/d8142548-e82f-47ba-8eb2-bc3fcf7ab467)
+![Screenshot (155)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/475d69e4-d596-418f-83d2-737329adcc77)
