@@ -1,11 +1,5 @@
 
-# Terraform commands
+# multiregion
 
 
-
-```bash
- terraform init: initialise provider
- terraform plan: shows the changes terraform is going to add
- terraform apply -auto-approve: make the changes
-```
-
+![Screenshot (156)](https://github.com/HIMA10SHREE/terraform_practice/assets/52618743/cf06338d-51aa-42c4-a21f-0f23d4899629)
